@@ -269,6 +269,7 @@
 	width: 228px;
 }
 /*API*/
+.title{width:200px;padding-left:383px;padding-right:383px;font-size:40px;background-color:#000;color:#FFF;}
 .api-wrapper {
 	font-family: 'Open Sans';
 	font-size: 12px;
