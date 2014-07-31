@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+.main-wrapper {
+	width: 100%;
+	background: url(../images/backgound.png);
+	height: 100%
+}
+.wrapper {
+	margin: 0px auto;
+	width: 966px;
+}
+.header {
+	width: 966px;
+	background-color: #000106;
+	display: table;
+	position: relative;
+}
+.content {
+	width: 966px;
+	display: table;
+}
+.mid-content {
+	width: 966px;
+}
+.col-left {
+	width: 228px;
+	margin-right: 9px;
+	float: left;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+.col-right {
+	float: right;
+	display: table;
+}
+.main {
+	width: 474px;
+	background-color: white;
+	margin-left: 9px;
+	margin-right: 9px;
+	float: left;
+	padding-bottom: 39px;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+.col-right-box {
+	width: 228px;
+	margin-left: 9px;
+	float: right;
+	margin-top: 9px;
+	margin-bottom: 9px;
+	display: table;
+}
+.api-wrapper {
+	width: 966px;
+	background-color: #f3f3f3;
+	margin: 0px auto;
+	display: table;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+.footer-wrapper {
+	width: 100%;
+	background-color: #154066;
+	display: table;
+	margin-top: 9px;
+}
+.footer-down-wrapper {
+	width: 100%;
+	background-color: black;
+	display: table;
+}
+.footer-up {
+	width: 966px;
+	margin: 0px auto;
+	display: table;
+}
+.footer-down {
+	width: 966px;
+	margin: 0px auto;
+}
